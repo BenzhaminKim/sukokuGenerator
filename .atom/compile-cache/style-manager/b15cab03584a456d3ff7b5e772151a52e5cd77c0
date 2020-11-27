@@ -1,0 +1,1 @@
+{"source":".atom-html-preview webview {\n  background-color: white;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-size: 100%;\n  font: inherit;\n  vertical-align: baseline;\n}\n"}

@@ -1,0 +1,10 @@
+(function() {
+  var AtomReact;
+
+  AtomReact = require('./lib/atom-react');
+
+  module.exports = new AtomReact;
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZmlsZTovLy9DOi9Vc2Vycy91c2VyLy5hdG9tL3BhY2thZ2VzL3JlYWN0L2luZGV4LmNvZmZlZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUFBLE1BQUE7O0VBQUEsU0FBQSxHQUFZLE9BQUEsQ0FBUSxrQkFBUjs7RUFFWixNQUFNLENBQUMsT0FBUCxHQUFpQixJQUFJO0FBRnJCIiwic291cmNlc0NvbnRlbnQiOlsiQXRvbVJlYWN0ID0gcmVxdWlyZSAnLi9saWIvYXRvbS1yZWFjdCdcblxubW9kdWxlLmV4cG9ydHMgPSBuZXcgQXRvbVJlYWN0XG4iXX0=
